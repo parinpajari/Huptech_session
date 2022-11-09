@@ -12,7 +12,7 @@
 ?><!DOCTYPE html>
 
 <html class="no-js" <?php language_attributes(); ?>>
-
+<p> This is my website session </p>
 	<head>
 
 		<meta charset="<?php bloginfo( 'charset' ); ?>">
