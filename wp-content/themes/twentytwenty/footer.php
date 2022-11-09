@@ -62,6 +62,6 @@
 			</footer><!-- #site-footer -->
 
 		<?php wp_footer(); ?>
-
+<p> Hello Divang 2022 </p>
 	</body>
 </html>
