@@ -64,5 +64,5 @@
 		<?php wp_footer(); ?>
 
 	</body>
-	<p>test</p>
+	<p>This is live website 2022</p>
 </html>
