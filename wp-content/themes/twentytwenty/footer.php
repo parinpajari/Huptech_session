@@ -64,5 +64,5 @@
 		<?php wp_footer(); ?>
 
 	</body>
-	<p>This is live website sdfsfds</p>
+	<p>This is live website parinmergegit  </p>
 </html>
